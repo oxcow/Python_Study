@@ -1,0 +1,20 @@
+{
+	"Name": "小明",
+	"Age": 12,
+	"PlayerList": [{
+			"username": "admin",
+			"userpass": "admin",
+			"sex": "女"
+		},
+		{
+			"username": "LiBai",
+			"userpass": "123",
+			"sex": "男"
+		},
+		{
+			"username": "XiaoMing",
+			"userpass": "456",
+			"sex": "男"
+		}
+	]
+}
