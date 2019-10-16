@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#
+# Python 的非正式介绍
 
 count = 3
 
